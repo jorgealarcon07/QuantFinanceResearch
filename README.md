@@ -3,7 +3,10 @@
 
  ## Phase projects
 
- 1. Abstracts extraction about papers on the main topics about Quan Finance
+ ### First approach
+
+ 1. Abstracts extraction about papers on the main topics about Quan Finance on the last 20 years
+
  - Asset Pricing Models
  - Financial Risk
  - Financial Derivatives
@@ -15,3 +18,15 @@
  - Financial Econometrics
  - Behavioral Finance
  - Network Analysis in Finance
+
+ 2. Filter and prepare data for analysis.
+
+ 3. Search for the most common words on the abstracts.
+
+ 4. Remove stop and non value words.
+
+ 5. Dirichlet algorithm to extract topics
+
+ ### Second approach
+
+ 6. Neural networks to seek connections among common words 
