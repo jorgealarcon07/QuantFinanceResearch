@@ -22,8 +22,10 @@
  2. Filter and prepare data for analysis.
 
  3. Search for the most common words on the abstracts.
+        Histogram
 
  4. Remove stop and non value words.
+        Histogram
 
  5. Dirichlet algorithm to extract topics
 
